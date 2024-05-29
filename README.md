@@ -16,7 +16,7 @@ This repository contains the project "Laptop Price Prediction," where we scrape 
 
 ## Data Scraping
 
-We scrape the laptop data from Flipkart using BeautifulSoup. The code for data scraping is available in another repository. You can find the code [here](https://github.com/your-repo/data-scraping-repo).
+We scrape the laptop data from Flipkart using BeautifulSoup. The code for data scraping is available in another repository. You can find the code [here](https://github.com/Abhay-1552/Web-Scraping-Flipkart).
 
 ## Data Cleaning and Analysis
 
@@ -49,7 +49,7 @@ A frontend is created using Streamlit for visual presentation and interaction wi
 
 ## Links
 
-- [Data Scraping Repository](https://github.com/your-repo/data-scraping-repo)
+- [Data Scraping Repository](https://github.com/Abhay-1552/Web-Scraping-Flipkart)
 
 ## Installation
 
